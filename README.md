@@ -5,9 +5,9 @@
 **Plataforma:** Lab PNET  
 **Fecha:** Junio 2026
 
-Videio demostrativo:
+##Videio demostrativo:
 
-Link GitHub:
+##Link GitHub:
 
 ---
 
